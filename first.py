@@ -58,21 +58,3 @@ def close_alert_and_get_its_text(self):
 
 
 print("alarm is raised")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
